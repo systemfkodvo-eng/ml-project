@@ -84,6 +84,7 @@ by a licensed practitioner.
 origins = [
     "http://localhost:3000",
     "http://127.0.0.1:3000",
+    "https://breath.vercel.app",  # Production frontend - Update if your domain is different
 ]
 
 app.add_middleware(
